@@ -4,14 +4,14 @@ Welcome to the frontend repository of VehiTrack, the innovative Vehicle Manageme
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Features](#features)
-- [Technology Stack](#technology-stack)
-- [Getting Started](#getting-started)
-- [Folder Structure](#folder-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [VehiTrack Frontend](#vehitrack-frontend)
+  - [Table of Contents](#table-of-contents)
+  - [Project Overview](#project-overview)
+  - [Features](#features)
+  - [Technology Stack](#technology-stack)
+  - [Getting Started](#getting-started)
+  - [Folder Structure](#folder-structure)
+  - [Usage](#usage)
 
 ## Project Overview
 
@@ -32,10 +32,6 @@ VehiTrack is a comprehensive Vehicle Management System that optimizes resources,
 - **Helper Management:**
 
   - Maintenance of helper details for coordination.
-
-- **Real-time Collaborative Chat System:**
-
-  - Foster seamless communication among team members with an integrated chat system using Socket.io.
 
 - **Seamless Trip Planning:**
 
@@ -82,7 +78,6 @@ VehiTrack is a comprehensive Vehicle Management System that optimizes resources,
 - **Ant Design:** UI library for React components.
 - **Tailwind CSS:** Utility-first CSS framework.
 - **Redux:** State management for React applications.
-- **Socket.io:** Real-time bidirectional event-based communication.
 - **Framer Motion:** Animation library for React components.
 - **EmailJS:** Service for sending emails directly from client-side JavaScript.
 
@@ -95,7 +90,6 @@ To get started with the VehiTrack frontend, follow these steps:
 3. Configure environment variables. (Contact with developer team)
 4. Start the development server: `yarn dev`
 
-For more detailed instructions and configuration options, refer to the [Documentation Link](https://docs.google.com/document/d/1p9UTRG0EbPuOUZziWcvhrJbCLFHpTxKn5TNf2t-Sji0/edit?usp=sharing).
 
 ## Folder Structure
 
@@ -119,7 +113,6 @@ To interact with the VehiTrack frontend, follow these steps:
 
 2. **Configuration:**
 
-   - If necessary, configure environment variables. Check the [Documentation Link](#) for any specific configuration requirements.
 
 3. **Development Server:**
 
@@ -147,16 +140,11 @@ To interact with the VehiTrack frontend, follow these steps:
    - Navigate through the dashboard to access different features:
      - Manage Vehicles, Drivers, and Helpers.
      - Plan Trips and record expenses.
-     - Use the real-time collaborative chat system.
      - View reports and analytics for insights.
 
 6. **Animation with Framer Motion:**
 
    - Experience smooth and interactive animations integrated with Framer Motion.
 
-7. **Real-time Communication with Socket.io:**
-
-   - Test the real-time collaborative chat system that fosters seamless communication among team members.
-
-8. **Email Integration with EmailJS:**
+7. **Email Integration with EmailJS:**
    - Explore functionalities that involve email communication directly from the client-side using EmailJS.
